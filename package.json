@@ -1,5 +1,5 @@
 {
-  "name": "math-magic",
+  "name": "math-magicians",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,6 +13,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -46,7 +48,6 @@
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "eslint-plugin-react": "^7.33.1",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "hint": "^7.1.10",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
