@@ -160,7 +160,7 @@ I would like to thank Microverse staff for their support and robust program.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT] licensed.
+This project is [MIT](https://github.com/Edgahkipkemoi/Math-magicians/blob/development/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
