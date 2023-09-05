@@ -117,9 +117,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## 👥 Authors <a name="authors"></a>
 
 
-
 👤 **Edgah kipkemoi**
-
 
 
 - GitHub: [@Edgahkipkemoi](https://github.com/Edgahkipkemoi)
